@@ -3,7 +3,7 @@ import numpy as np
 from scipy import stats
 
 # Load the dataset
-file_path = "data/CustomerData_Composite.csv"  # Replace with the actual path to your CSV file
+file_path = "data/CustomerData_Composite.csv" 
 data = pd.read_csv(file_path)
 
 # List of variables to analyze
