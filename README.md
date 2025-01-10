@@ -1,1 +1,1 @@
-# CustomerInsights-MISM6212
+# Assignment 1 - MISM 6212
